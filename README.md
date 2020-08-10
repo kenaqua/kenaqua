@@ -1,4 +1,4 @@
-###　日本語勉強します。
+　日本語を勉強します。
 
 <!--
 **kenaqua/kenaqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
